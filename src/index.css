@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .hero-btn {
+        @apply border text-white border-gray-300 py-2 px-2
+    }
+
+    .like-heart {
+        @apply absolute top-4 left-4 text-gray-300
+    }
+
+    .row-arrow {
+        @apply bg-white rounded-full absolute opacity-50 hover:opacity-100 cursor-pointer z-10 hidden group-hover:block
+    }
+}
+
+body {
+    background-color: #000;
+    font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-logo {
+    font-family: 'Bebas Neue', sans-serif;
+}
