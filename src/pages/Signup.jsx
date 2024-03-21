@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import loginBg from "../../public/images/login-bg.jpg";
+import loginBg from "../images/login-bg.jpg";
 import { Link, useNavigate } from "react-router-dom";
 import { UserAuth } from "../context/AuthContext";
 
