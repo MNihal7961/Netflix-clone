@@ -1,40 +1,32 @@
-# Netflix Clone
+# Tesla Clone
 
-This project is a clone of the Netflix website, implemented using JavaScript, React, React-Vite, Tailwind CSS, Firebase, and API integration.
+This project is a clone of the Tesla website, implemented using HTML and CSS to create a static website.
 
-## Technologies Used
+## Overview
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-- ![React-Vite](https://img.shields.io/badge/-React--Vite-9cf?logo=react&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blueviolet?logo=tailwind-css&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase&logoColor=white)
-- ![API Integration](https://img.shields.io/badge/-API%20Integration-informational)
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/netflix-clone.git`
-2. Navigate to the project directory: `cd netflix-clone`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
+This project aims to replicate the design and layout of the Tesla website, providing a static version for educational and learning purposes.
 
 ## Features
 
-- Netflix-like UI with various movie categories
-- Firebase integration for authentication and data storage
-- Responsive design with Tailwind CSS
-- **User Authentication:** Users can sign up and log in to their accounts.
-- **Account Profile Page:** Users have their own profile pages where they can manage their account information.
-- **Wishlist:** Users can add movies to their wishlist for future viewing.
-- **API Integration:** Fetches data from an external API to display movie information.
+- **Static Website:** The project is a static website, built using HTML and CSS.
+- **Tesla Website Clone:** The layout and design closely resemble the official Tesla website.
+- **Responsive Design:** The website is designed to be responsive, ensuring compatibility across various devices and screen sizes.
 
-## Screenshot Preview
+## Technologies Used
+- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)
 
-![Netflix Clone Screenshot](SiteSnap/pic.png)
+## Getting Started
+To view the Tesla clone website, simply open the `index.html` file in your web browser.
 
+## Preview
+![Tesla Clone Preview](/images/preview.png)
+
+## GitHub Repository
+[GitHub Repository](https://github.com/MNihal7961/Tesla_Clone)
+
+## Live Demo
+[Live Demo](https://mnihal7961.github.io/Tesla_Clone/)
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
